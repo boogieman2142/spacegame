@@ -5,6 +5,7 @@
 ## Die Map ##
 
 Der Aufbau de Map gestaltet sich wie folgt:
+
 1. Es gibt je nach Spielerzahl einen oder mehrere Superquadranten
 2. Jeder Superquadrant besteht aus einer 10x10 Anordnung von Quadranten. Jeder Quadrant wird nach dem Zufallsprinzip entweder leer oder mit Sonnensystemen spawnen.
 3. In einem Superquadranten können minimal 1 und maximal 60 Quadranten spawnen.
@@ -16,11 +17,12 @@ Der Aufbau de Map gestaltet sich wie folgt:
 
 ----------
 ## Die Planeten ##
+
 Es gibt 5 unterschiedliche Planetentypen und jeder hat seinen eigenen Bonus:
+
 1. Barren 	(Bonus auf Tritanium Abbau(am häufigsten))
 2. Lava		(Bonus auf Mercoxit Abbau(häufig))
 3. Plasma	(Bonus auf Isogen Abbau(häufig))
 4. Ice		(Bonus auf Deuterium Produktion(selten))
 5. Temperate(Bonus auf jeden Abbau(am seltensten))
 6. Asteroid	(Großer Bonus auf Tritanium und Mercoxit Abbau, jedoch an Gebäudebauoptionen beschränkt(selten)
-7. 
